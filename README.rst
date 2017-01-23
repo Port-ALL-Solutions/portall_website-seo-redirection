@@ -6,8 +6,7 @@
 Website SEO Redirection
 =======================
 
-This module extends the functionality of the website to support using custom
-URLs and allow you to improve the SEO.
+Allows customization of URLS of website pages and improvement of the SEO.
 
 Usage
 =====
